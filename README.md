@@ -1,6 +1,7 @@
 # sech
 
 [![Build Status][travis-svg]][travis]
+[![Dependency Status][gemnasium-svg]][gemnasium]
 
 Calculate the hyperbolic secant of a number.
 
@@ -32,3 +33,5 @@ Given a _Number_ `x`, returns the hyperbolic secant of `x` as a _Number_.
 
    [travis]: https://travis-ci.org/KenanY/sech
    [travis-svg]: https://img.shields.io/travis/KenanY/sech.svg
+   [gemnasium]: https://gemnasium.com/KenanY/sech
+   [gemnasium-svg]: https://img.shields.io/gemnasium/KenanY/sech.svg
