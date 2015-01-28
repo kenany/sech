@@ -1,0 +1,29 @@
+{
+  "name": "sech",
+  "version": "0.0.0",
+  "description": "Calculate the hyperbolic secant of a number",
+  "keywords": [
+    "math"
+  ],
+  "repository": "KenanY/sech",
+  "license": "MIT",
+  "author": "Kenan Yildirim <kenan@kenany.me> (http://kenany.me/)",
+  "main": "index.js",
+  "files": [
+    "index.js",
+    "LICENSE.txt"
+  ],
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "tape test/index.js"
+  },
+  "dependencies": {
+    "cosh": "^1.0.1"
+  },
+  "devDependencies": {
+    "lodash.isfunction": "^3.0.0",
+    "tape": "^3.0.0"
+  }
+}
