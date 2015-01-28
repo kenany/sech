@@ -1,5 +1,7 @@
 # sech
 
+[![Build Status][travis-svg]][travis]
+
 Calculate the hyperbolic secant of a number.
 
 ## Example
@@ -26,3 +28,7 @@ var sech = require('sech');
 ### `sech(x)`
 
 Given a _Number_ `x`, returns the hyperbolic secant of `x` as a _Number_.
+
+
+   [travis]: https://travis-ci.org/KenanY/sech
+   [travis-svg]: https://img.shields.io/travis/KenanY/sech.svg
