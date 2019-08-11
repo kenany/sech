@@ -27,12 +27,12 @@
     "cosh": "^1.0.1"
   },
   "devDependencies": {
-    "@kenan/eslint-config": "^4.0.0",
+    "@kenan/eslint-config": "4.0.0",
     "@kenan/renovate-config": "1.1.1",
-    "almost-equal": "^1.1.0",
-    "eslint": "^3.10.2",
-    "lodash.isfunction": "^3.0.0",
-    "nyc": "^9.0.1",
-    "tape": "^4.6.2"
+    "almost-equal": "1.1.0",
+    "eslint": "3.19.0",
+    "lodash.isfunction": "3.0.9",
+    "nyc": "9.0.1",
+    "tape": "4.11.0"
   }
 }
