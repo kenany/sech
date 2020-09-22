@@ -22,7 +22,7 @@
     "test": "tape test/index.js"
   },
   "dependencies": {
-    "cosh": "^1.0.1"
+    "cosh": "^1.0.2"
   },
   "devDependencies": {
     "@kenan/eslint-config": "8.0.0",
