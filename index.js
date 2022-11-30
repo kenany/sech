@@ -1,4 +1,4 @@
-var cosh = require('cosh');
+const cosh = require('cosh');
 
 function sech(x) {
   return 1 / cosh(x);
