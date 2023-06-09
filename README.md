@@ -5,7 +5,7 @@ Calculate the hyperbolic secant of a number.
 ## Example
 
 ``` javascript
-var sech = require('sech');
+const sech = require('sech');
 
 sech(Math.PI);
 // => 0.08626673833405443
@@ -20,7 +20,7 @@ $ npm install sech
 ## API
 
 ``` javascript
-var sech = require('sech');
+const sech = require('sech');
 ```
 
 ### `sech(x)`

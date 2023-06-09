@@ -5,11 +5,12 @@
   "keywords": [
     "math"
   ],
-  "repository": "KenanY/sech",
+  "repository": "github:kenany/sech",
   "license": "MIT",
   "author": "Kenan Yildirim <kenan@kenany.me> (https://kenany.me/)",
   "main": "index.js",
   "files": [
+    "CHANGELOG.md",
     "index.js",
     "LICENSE.txt"
   ],
@@ -22,17 +23,22 @@
   "scripts": {
     "lint": "eslint *.js test/*.js",
     "coverage": "nyc npm test",
-    "test": "tape test/index.js"
+    "test": "tape test/index.js",
+    "release": "semantic-release"
   },
   "dependencies": {
     "cosh": "^1.0.2"
   },
   "devDependencies": {
     "@kenan/eslint-config": "^10.0.2",
+    "@semantic-release/changelog": "^6.0.3",
+    "@semantic-release/git": "^10.0.1",
     "almost-equal": "^1.1.0",
+    "conventional-changelog-conventionalcommits": "^6.0.0",
     "eslint": "^8.42.0",
     "lodash.isfunction": "^3.0.9",
     "nyc": "^15.1.0",
+    "semantic-release": "^21.0.3",
     "tape": "^5.6.3"
   }
 }
