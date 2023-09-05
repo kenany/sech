@@ -1,3 +1,14 @@
+## [3.0.0](https://github.com/kenany/sech/compare/2.0.0...3.0.0) (2023-09-05)
+
+
+### ⚠ BREAKING CHANGES
+
+* Node.js v14 and v16 are no longer supported.
+
+### Features
+
+* drop Node.js v14 and v16 ([1279a82](https://github.com/kenany/sech/commit/1279a82b38118ddc06168756a0d6db7499bb709d))
+
 ## [2.0.0](https://github.com/kenany/sech/compare/1.0.0...2.0.0) (2023-06-09)
 
 
