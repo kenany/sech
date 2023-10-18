@@ -1,3 +1,10 @@
+## [3.0.1](https://github.com/kenany/sech/compare/3.0.0...3.0.1) (2023-10-18)
+
+
+### Bug Fixes
+
+* **deps:** cosh@2.0.0 ([68d23da](https://github.com/kenany/sech/commit/68d23da44b4556d3dea026d49911ac9fbca9d051))
+
 ## [3.0.0](https://github.com/kenany/sech/compare/2.0.0...3.0.0) (2023-09-05)
 
 
