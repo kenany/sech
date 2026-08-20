@@ -27,7 +27,7 @@
     "release": "semantic-release"
   },
   "dependencies": {
-    "cosh": "^2.0.0"
+    "cosh": "^3.0.0"
   },
   "devDependencies": {
     "@kenan/eslint-config": "11.1.18",
