@@ -4,7 +4,7 @@ Calculate the hyperbolic secant of a number.
 
 ## Example
 
-``` javascript
+```javascript
 import { sech } from 'sech';
 
 sech(Math.PI);
@@ -13,13 +13,13 @@ sech(Math.PI);
 
 ## Installation
 
-``` bash
+```bash
 $ npm install sech
 ```
 
 ## API
 
-``` javascript
+```javascript
 import { sech } from 'sech';
 ```
 
